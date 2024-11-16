@@ -1,3 +1,11 @@
+This magisk module adds a country code to the wifi system prop because some custom roms don't, which leads to not being able to connect to DFS networks (5ghz ch52-144).
+
+Once installed, you should be able to see and connect to wifi networks using DFS channels.
+
+Tested on Xiaomi Pad 6 running uvite AOSPA (A14)
+
+OLD:
+
 <h1 align="center">Magisk Module Template Extended (MMT-Ex)</h1>
 
 <div align="center">
